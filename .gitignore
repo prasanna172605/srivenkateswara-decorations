@@ -1,0 +1,10 @@
+# Firebase cache and logs
+.firebase/
+*-debug.log
+.firebaserc
+
+# IDEs and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
